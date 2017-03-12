@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                Toast.makeText(getApplicationContext(), "Mensagem", Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(), "Mensagem de Retorno ao Usuário", Toast.LENGTH_SHORT).show();
 
             }
         });
